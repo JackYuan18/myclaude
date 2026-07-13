@@ -60,6 +60,25 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
+## 5. Keep a memory
+
+**Keep a log of what has been done. So you can continue later. **
+
+Always log the what has been done in a MEMORY.md file. Create one if it is not in the directory.
+
+- Log what has been done in a concise and structured way.
+- Reogranize the file periodically to remove unnecessary and redundent content.
+
+
+## 6. Ask before execute
+
+** Obtain permission before modification **
+
+Unless explicitly asked to do so, always check with the user before applying any changes in the code.
+
+
+
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
